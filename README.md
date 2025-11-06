@@ -113,4 +113,10 @@ Skill paling berharga yang kami dapat:
 5. **Perubahan Mindset Developer**  
    - Dari *"asal jalan"* ke *"harus maintainable"*  
    - Dari *"asal implement"* ke *"design for change"*  
-   - Dari *"solo coding"* ke *"engineering as teamwork"*  
+   - Dari *"solo coding"* ke *"engineering as teamwork"*
+
+---
+  
+## Kesimpulan
+
+Melalui proyek PC Builder Tycoon – Core Engine v1.0, kami belajar bahwa software engineering bukan hanya tentang membuat program yang berjalan, tetapi merancang sistem yang bagus. Kode yang baik bukan sekadar berfungsi, tapi juga terorganisir, mudah dirawat, dan siap beradaptasi dengan perubahan di masa depan.
